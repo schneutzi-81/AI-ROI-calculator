@@ -1,0 +1,6 @@
+# Generated Excel workbooks are built locally from source files.
+*.xlsx
+
+# Python cache files
+__pycache__/
+*.py[cod]
