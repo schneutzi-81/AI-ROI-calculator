@@ -1,0 +1,14 @@
+Service category,Service type,Custom name,Region,Description,Estimated monthly cost,Estimated upfront cost,Cost type
+AI + machine learning,Azure OpenAI,Azure OpenAI - GPT-4o (Language Model),West Europe,"GPT-4o-128K on-demand: 20,000 x 1,000 input tokens; 2,500 x 1,000 output tokens",128.16,0.00,Variable GPT
+Web,Azure AI Search,Azure AI Search Standard S1,Germany North,"Standard S1, 1 unit, 1 month",207.84,0.00,Fixed
+Networking,Application Gateway,Application Gateway WAF v2,West Europe,"WAF v2, 730 gateway hours, 1 compute unit, 1,000 persistent connections, 5 GB transfer",298.40,0.00,Fixed
+Containers,Azure Container Apps,Azure Container Apps - Open WebUI,West Europe,"Consumption plan, 4M requests/month, 20 concurrent requests, 4 vCPU, 8 GiB memory",0.95,0.00,Fixed
+Databases,Azure Database for PostgreSQL,PostgreSQL - Vector DB,West Europe,"Flexible server, General Purpose, D4ds v5 4 vCores x 730 hours, 5 GiB Premium SSD",262.85,0.00,Fixed
+Databases,Azure Database for PostgreSQL,PostgreSQL - Config DB,West Europe,"Flexible server, General Purpose, D4ds v5 4 vCores x 730 hours, 5 GiB Premium SSD",262.85,0.00,Fixed
+Storage,Storage Accounts,Storage Account - Production,West Europe,"Blob storage GPv2 LRS hot tier, 1,000 GB capacity and standard operations",17.56,0.00,Fixed
+Storage,Storage Accounts,Storage Account - Admin,West Europe,"Blob storage GPv2 LRS hot tier, 1,000 GB capacity and standard operations",17.56,0.00,Fixed
+Security,Key Vault,Azure Key Vault,West Europe,"Secrets, certificates, API keys; no chargeable operations in estimate",0.00,0.00,Fixed
+Containers,Azure Container Registry,Azure Container Registry Standard,West Europe,"Standard tier, 1 registry x 30 days, 5 GB outbound transfer",16.95,0.00,Fixed
+DevOps,Azure Monitor,Azure Monitor,West Europe,"Log Analytics 1 GB daily analytics logs, dashboards, alert/recording rules",63.34,0.00,Fixed
+AI + machine learning,Azure OpenAI,Azure OpenAI - Embedding Models,West Europe,"Text-Embedding-3-Large: 50,000 x 1,000 tokens",7.29,0.00,Variable Embedding
+Support,Support,Support,,Support,0.00,0.00,Fixed
